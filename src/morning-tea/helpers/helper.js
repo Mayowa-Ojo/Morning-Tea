@@ -96,7 +96,8 @@ function decodeEntities(obj) {
 		["#039", "'"],
 		["lt", "<"],
 		["gt", ">"],
-		["amp", "&"]
+		["amp", "&"],
+		["eacute", "é"]
 	];
 
 	for(let prop in obj) {
