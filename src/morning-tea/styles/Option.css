@@ -1,0 +1,28 @@
+.Option {
+    background: whitesmoke;
+    height: 100%;
+    width: 100%;
+    /* cursor: pointer; */
+    border: none;
+    color: orangered;
+    font-size: 21px;
+}
+
+.Option:disabled {
+    color: rgb(175, 169, 169);
+}
+
+.Option:hover, .Option:hover p {
+    background: orange;
+    color: white;
+}
+
+.Option-wrong, .Option-wrong:hover {
+    background: orangered;
+    color: white;
+}
+
+.Option-correct, .Option-correct:hover {
+    background: green;
+    color: white;
+}

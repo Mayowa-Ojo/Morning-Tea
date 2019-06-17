@@ -1,0 +1,10 @@
+#root > nav > nav > a > svg {
+    color: orangered;
+    margin-left: 10px;
+    position: relative;
+    bottom: 1px;
+}
+
+#root > nav > nav > a {
+    color: teal;
+}

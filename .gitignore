@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# folders
+/src/dog-finder
+/src/manga_scrape
